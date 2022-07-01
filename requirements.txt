@@ -1,0 +1,4 @@
+This algorithm requires the installation of the following libraries:
+
+1. Numpy
+2. Matplotlib
